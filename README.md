@@ -22,4 +22,4 @@ https://jonathanhcruz.github.io/u-compensar-lenguajes-internet-transferencia/
 
 ## Image
 
-![Screenshot 2025-05-29 at 10 44 12 PM](https://github.com/user-attachments/assets/38837d59-ba1a-46ca-aecc-79a87e88c514)
+![Screenshot 2025-05-30 at 7 40 26 PM](https://github.com/user-attachments/assets/d6e2dd68-ea06-46c0-9447-6a53136dd0bd)
