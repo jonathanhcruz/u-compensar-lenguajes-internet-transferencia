@@ -12,8 +12,7 @@ this project is a simple university project created only for educational purpose
 https://www.figma.com/design/TuqPeeXL2eo7hUwuQLXFEu/JC-Page?node-id=24-784
 
 ## Link Page
-
-
+https://jonathanhcruz.github.io/u-compensar-lenguajes-internet-transferencia/
 
 ## Video
 > [!IMPORTANT]
